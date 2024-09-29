@@ -1,0 +1,18 @@
+current directory: /Users/kevinkusky/Desktop/Projects/growthhub/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
+/Users/kevinkusky/.rbenv/versions/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/kevinkusky/Desktop/Projects/growthhub/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240928-50111-o4h8yt sitelibdir\=./.gem.20240928-50111-o4h8yt clean
+
+current directory: /Users/kevinkusky/Desktop/Projects/growthhub/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240928-50111-o4h8yt sitelibdir\=./.gem.20240928-50111-o4h8yt
+compiling stringio.c
+linking shared-object stringio.bundle
+
+current directory: /Users/kevinkusky/Desktop/Projects/growthhub/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240928-50111-o4h8yt sitelibdir\=./.gem.20240928-50111-o4h8yt install
+/usr/bin/install -c -m 0755 stringio.bundle ./.gem.20240928-50111-o4h8yt
+
+current directory: /Users/kevinkusky/Desktop/Projects/growthhub/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240928-50111-o4h8yt sitelibdir\=./.gem.20240928-50111-o4h8yt clean

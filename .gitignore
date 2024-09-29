@@ -1,0 +1,47 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore environment files
+.env*
+!/.env*.erb
+
+# Log files and temp
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# PID and storage
+/tmp/pids/*
+!/tmp/pids/
+!/tmp/pids/.keep
+/storage/*
+!/storage/.keep
+/tmp/storage/*
+!/tmp/storage/
+!/tmp/storage/.keep
+
+# Public assets
+/public/assets/*
+!/public/assets/.keep
+
+# Credentials
+/config/master.key
+
+# Ignore editor, OS-specific files, and node_modules
+.DS_Store
+node_modules/
+.vscode/
+.idea/
+.bundle/
+*.swp
+*.bak
+*.log
+.byebug_history
+
+# Docker-related ignores
+Gemfile.lock
+
+# Test coverage
+/coverage/*
+!/coverage/.keep

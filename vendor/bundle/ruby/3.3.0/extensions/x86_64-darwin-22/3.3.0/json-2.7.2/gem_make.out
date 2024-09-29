@@ -1,0 +1,16 @@
+current directory: /Users/kevinkusky/Desktop/Projects/growthhub/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+/Users/kevinkusky/.rbenv/versions/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/kevinkusky/Desktop/Projects/growthhub/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240928-50111-niov04 sitelibdir\=./.gem.20240928-50111-niov04 clean
+
+current directory: /Users/kevinkusky/Desktop/Projects/growthhub/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240928-50111-niov04 sitelibdir\=./.gem.20240928-50111-niov04
+make: Nothing to be done for `all'.
+
+current directory: /Users/kevinkusky/Desktop/Projects/growthhub/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240928-50111-niov04 sitelibdir\=./.gem.20240928-50111-niov04 install
+
+current directory: /Users/kevinkusky/Desktop/Projects/growthhub/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240928-50111-niov04 sitelibdir\=./.gem.20240928-50111-niov04 clean
