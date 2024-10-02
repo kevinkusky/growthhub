@@ -1,0 +1,20 @@
+# == Schema Information
+#
+# Table name: goal_updates
+#
+#  id              :bigint           not null, primary key
+#  goal_id         :bigint           not null
+#  progress_update :text
+#  created_at      :datetime         not null
+#  updated_at      :datetime         not null
+#
+
+one:
+  goal: one
+  progress_update: MyText
+  created_at: 2024-09-29 20:52:34
+
+two:
+  goal: two
+  progress_update: MyText
+  created_at: 2024-09-29 20:52:34
